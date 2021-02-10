@@ -8,4 +8,8 @@ I'm continuing to build content for you all!
 
 ### Latest Video:
 
-<iframe width="424" height="238" src="https://www.youtube.com/embed/bZiOtT-EqjA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a href="https://youtu.be/bZiOtT-EqjA">Taking The W3 Schools JavaScript Quiz</a>
+
+<a href="https://youtu.be/bZiOtT-EqjA">
+  <img src="https://img.youtube.com/vi/bZiOtT-EqjA/maxresdefault.jpg" width="350" />
+ </a>
