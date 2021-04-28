@@ -10,6 +10,6 @@ I'm continuing to build content for you all!
 
 <a href="https://youtu.be/bZiOtT-EqjA">Taking The W3 Schools JavaScript Quiz</a>
 
-<a href="https://youtu.be/bZiOtT-EqjA">
-  <img src="https://img.youtube.com/vi/bZiOtT-EqjA/maxresdefault.jpg" width="350" />
+<a href="https://youtu.be/lWk5SntifCU">
+  <img src="https://img.youtube.com/lWk5SntifCU/maxresdefault.jpg" width="350" />
  </a>
